@@ -52,6 +52,5 @@ $create_table = $conn->query("CREATE TABLE control (
 $inser_data = $conn -> query("INSERT INTO `control`(`id`, `forward`, `backward`, `move_right`, `move_left`, `press_stop`) 
 VALUES (1,'Forward','Backward','Right','Left','Stop'");
 
-```
-8. Open your browser and go to ```http://localhost/control_panel/```
-![](https://user-images.githubusercontent.com/27751735/85617141-717b1580-b667-11ea-9d7c-c76fe3ce198d.gif)
+```![ROBOT](https://user-images.githubusercontent.com/102740867/184293885-3c6191c7-9d69-4944-ae0b-e43122ea7924.PNG)
+
